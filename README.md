@@ -20,14 +20,14 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
     "SYMBOL": "Eth",
     "ID": 1
   },
-  "NFT_NAME": "Meta World Cup 2022",
-  "SYMBOL": "MWC",
-  "MAX_SUPPLY": 10240,
-  "WEI_COST": 800000000000000000,
-  "DISPLAY_COST": 0.08,
+  "NFT_NAME": "TMMWC22",
+  "SYMBOL": "TMMWC",
+  "MAX_SUPPLY": 480,
+  "WEI_COST": 600000000000000000,
+  "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/meta-world-cup",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tmmwc",
   "SHOW_BACKGROUND": true
 }
 ```
@@ -56,15 +56,15 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>Meta World Cup 2022</title>
-<meta name="description" content="Mint your MWC NFT" />
+<title>TMMWC22</title>
+<meta name="description" content="Mint your TMMWC NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
 
 ```json
 {
-  "short_name": "MWC",
+  "short_name": "TMMWC",
   "name": "Meta World Cup"
 }
 ```
