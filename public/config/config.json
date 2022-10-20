@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x380BA700B211E2c1f3131713881e6DEb3A5fa968",
+  "SCAN_LINK": "https://etherscan.io/address/0x380BA700B211E2c1f3131713881e6DEb3A5fa968",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Meta World Cup R2",
+  "SYMBOL": "TMMWC",
+  "MAX_SUPPLY": 480,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 475000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tmmwc22",
+  "SHOW_BACKGROUND": true
+}
